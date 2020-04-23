@@ -1,2 +1,0 @@
-# node-crud
-Begin app
